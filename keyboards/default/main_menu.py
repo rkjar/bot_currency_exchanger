@@ -1,10 +1,10 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 
-button_1 = "DOLLAR_RUB"
-button_2 = "DOLLAR_BTC"
-button_3 = "DOLLAR_ETH"
-button_4 = "DOLLAR_EURO"
+button_1 = "DOLLAR to RUB"
+button_2 = "DOLLAR to BTC"
+button_3 = "DOLLAR to ETH"
+button_4 = "DOLLAR to EURO"
 main_menu_keyboard = ReplyKeyboardMarkup(
     keyboard=[
         [
